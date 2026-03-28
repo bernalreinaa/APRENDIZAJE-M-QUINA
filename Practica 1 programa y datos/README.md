@@ -34,10 +34,10 @@ Al ejecutar el script, el sistema realiza las siguientes tareas de forma automá
 ---
 
 ## 📁 Estructura del Repositorio
-* `optimización_mlp.m`: Script principal con la lógica de búsqueda.
-* `datos/`: Archivos Excel de las series.
-* `resultados/`: Imágenes `.png` generadas automáticamente.
-
+* `Practica 1 programa y datos/Derechos_CO2/PredMLP_3.mlx`: Script principal con la lógica de búsqueda para "Derechos_CO2".
+* `Practica 1 programa y datos/consumos_eii/PredMLP_3.mlx`: Script principal con la lógica de búsqueda para "consumos_eii".
+* `Practica 1 programa y datos/Gas_Natural/PredMLP_3.mlx`: Script principal con la lógica de búsqueda para "Gas_Natural".
+* * `Practica 1 programa y datos/Petroleo_Brent/PredMLP_3.mlx`: Script principal con la lógica de búsqueda para "Petroleo_Brent".
 ---
 
 ## 📉 Ejemplo de Resultados
